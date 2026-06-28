@@ -1,4 +1,5 @@
-# reo-demo.
-This is my first repository.
+# reo-demo
+
+This is my first repository
 <br>
-Author-Nikhil chouhan.
+Author-Nikhil chouhan(bhopal)
